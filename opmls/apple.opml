@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Apple</title>
+  </head>
+  <body>
+    <outline text="1-sad" _mubu_text="%3Cspan%3E1-sad%3C/span%3E" _note="" _mubu_note="">
+      <outline text="2-Gorg" _mubu_text="%3Cspan%3E2-Gorg%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="2-Borg" _mubu_text="%3Cspan%3E2-Borg%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+    <outline text="1-Love" _mubu_text="%3Cspan%3E1-Love%3C/span%3E" _note="" _mubu_note="">
+      <outline text="2-Happy" _mubu_text="%3Cspan%3E2-Happy%3C/span%3E" _note="" _mubu_note=""/>
+      <outline text="2-Good" _mubu_text="%3Cspan%3E2-Good%3C/span%3E" _note="" _mubu_note=""/>
+    </outline>
+  </body>
+</opml>

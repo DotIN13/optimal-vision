@@ -1,0 +1,19 @@
+{
+  "name": "optimal-vision",
+  "version": "1.0.0",
+  "description": "Draw mindmap graph based on opml exports",
+  "main": "vision.js",
+  "author": "DotIN13 <dotin13@126.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bundle exec ruby vision.rb && webpack",
+    "build_brics": "bundle exec ruby tests/brics.rb"
+  },
+  "dependencies": {
+    "d3": "^7.0.0",
+    "webpack": "^5.42.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  }
+}
